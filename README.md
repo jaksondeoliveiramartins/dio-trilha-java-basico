@@ -9,6 +9,6 @@ Repositório para exemplos do curso de java Básico pela Dio
     boolean verdadeira = false;
     anoFabricacao = 2018;
 # Metodo
-        Variavel       Metodo       Parametros
-            ↓           ↓               ↓
+          Variavel         Metodo          Parametros
+             ↓              ↓                 ↓
 String nomeCompleto = nomeCompleto (primeiroNome,segundoNome);
